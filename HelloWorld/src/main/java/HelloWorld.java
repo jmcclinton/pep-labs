@@ -6,6 +6,6 @@ public class HelloWorld {
      * @return
      */
     public String sayHello(){
-        return "Hello World!";
+        return "Hello, World!";
         }
     }
